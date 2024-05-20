@@ -1,0 +1,11 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    cursor: pointer;
+}
+
+li.selected {
+    color: orange;
+}
